@@ -4,10 +4,10 @@
 
 <template>
   <div class="app">
-    <div id="nav">
+    <!-- <div id="nav">
       <router-link to="/home" active-class="hanwu-active">Home</router-link> |
       <router-link to="/about" active-class="hanwu-active">About</router-link>
-    </div>
+    </div> -->
     <router-view />
   </div>
 </template>
